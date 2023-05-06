@@ -1,6 +1,6 @@
 Class Sample
 {
-public static void main(String args[])
+public static void main(Strin args[])
 {
   System.out.println("Hel World")
 }
